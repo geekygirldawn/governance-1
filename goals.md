@@ -8,11 +8,11 @@ Based on the TODO Group’s [2025 end-of-year overview](https://todogroup.org/bl
 
 ## Grow and Sustain Leadership Roles
 
-Make it easier for people to step into—and succeed in—leadership through clear entry points and consistent support.
+Make it easier for people to step into and succeed in leadership through clear entry points and consistent support
 
 **The Steering Committee is committed to:**
 
-- [ ]Improve and maintain documentation for working groups, events framework, and major deliverables
+- [ ] Improve and maintain documentation for working groups, events framework, and major deliverables
 - [ ] Establish a regular cadence of virtual member all-hands calls throughout the year, featuring sessions led by Ambassadors and members, and facilitated by Steering Committee members and the Linux Foundation staff project manager
 - [ ] Launch a lightweight mentorship program that connects new and experienced OSPO practitioners
 
