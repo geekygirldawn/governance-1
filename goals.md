@@ -22,7 +22,7 @@ Support TODO members and working groups in sharing guidance and reusable resourc
 
 - How organizations adopt and contribute to open source AI as part of their AI strategy
 - Use Cases that connect OSPOs with security, legal, and platform teams beyond open source policy
-- How OSPO practice at enterprises links to broader public-interest frameworks (e.g UN Open Source Goals, Academic Research, etc)
+- How OSPO practices in enterprises link to broader public-interest frameworks (e.g., UN Open Source Goals, Academic Research, etc.)
 
 **The Steering Committee is committed to:**
 
