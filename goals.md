@@ -40,7 +40,7 @@ Maintain and improve TODO Group's GitHub repositories so information stays accur
 **The Steering Committee is committed to:** 
 
 - [ ] Provide TODO repo maintenance and cleanup so resources remain findable and trustworthy (landscape, guides, governance)
-- [ ] Ensure repos reflect current community decisions and aligns with open source management profession 
+- [ ] Ensure repos reflect current community decisions and align with open source management best practices 
 
 
 # 📌 2025
