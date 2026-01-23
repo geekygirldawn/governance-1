@@ -35,7 +35,7 @@ Support TODO members and working groups in sharing guidance and reusable resourc
 
 ## Keep TODO resources current and easy to navigate
 
-Maintain and improve TODO GH's repositories so information stays accurate, up to date, and easy to find and reuse
+Maintain and improve TODO Group's GitHub repositories so information stays accurate, up to date, and easy to find and reuse
 
 **The Steering Committee is committed to:** 
 
