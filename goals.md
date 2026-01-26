@@ -26,7 +26,7 @@ Support TODO members and working groups in sharing guidance and reusable resourc
 
 **The Steering Committee is committed to:**
 
-- [ ] Participate in ask-me-anything, birds of a feather or expert-led panel discussions on these topics at major LF events
+- [ ] Participate in ask-me-anything, birds of a feather or expert-led panel discussions on these topics at LF and non-LF events
 - [ ] Advice on OSPOlogy and OSPOCon-branded programs by providing guidance on themes and formats, and speaking at sessions when possible
 - [ ] Connect with TODO Ambassadors and Working Group Chairs and provide them with resources and expert guidance to help them present their work at LF events.
 - [ ] Support release planning of TODO resources and presentation opportunities at events
