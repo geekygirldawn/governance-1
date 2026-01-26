@@ -28,7 +28,7 @@ Support TODO members and working groups in sharing guidance and reusable resourc
 
 - [ ] Participate in ask-me-anything, birds of a feather or expert-led panel discussions on these topics at major LF events
 - [ ] Advice on OSPOlogy and OSPOCon-branded programs by providing guidance on themes and formats, and speaking at sessions when possible
-- [ ] Connect with TODO Ambassadors and Working Group Chairs and provide them with resources and expert guidance to help them present on these cases
+- [ ] Connect with TODO Ambassadors and Working Group Chairs and provide them with resources and expert guidance to help them present their work at LF events.
 - [ ] Support release planning of TODO resources and presentation opportunities at events
 - [ ] Coordinate with sister ecosystems (OpenSSF, OpenChain, InnerSource Commons, CURIOSS, CNCF, LF Europe, CHAOSS) and local OSPO communities to co-present and/or co-develop resources and ensure the TODO community stays connected to major conversations on AI, software supply chain security, and regulatory trends
 
