@@ -1,6 +1,47 @@
 # 🧩 TODO Strategic Goals
 
-Bellow is a set of yearly goals to the TODO Group for review and sign-off by the Steering Committee in order to let the TODO Group shape the program and execute. The goals will be revisited and updated yearly.
+Below are the Steering Committee’s recommended annual goals for the TODO Group Community. They are intended as guidance, and will be reviewed and updated each year
+
+# 📌 2026
+
+Based on the TODO Group’s [2025 end-of-year overview](https://todogroup.org/blog/end-of-year-2025/), the Steering Committee advises on the following strategic goals and commits to supporting the TODO community, including individual contributors, Ambassadors, and general member organizations, in advancing the practice of open source management within organizations through community-driven resources and shared learning
+
+## Grow and Sustain Leadership Roles
+
+Make it easier for people to step into and succeed in leadership through clear entry points and consistent support
+
+**The Steering Committee is committed to:**
+
+- [ ] Improve and maintain documentation for working groups, events, and major deliverables
+- [ ] Establish a regular cadence of virtual member all-hands calls throughout the year, featuring sessions led by Ambassadors and members, and facilitated by Steering Committee members and the Linux Foundation staff project manager
+- [ ] Launch a lightweight mentorship program that connects new and experienced OSPO practitioners
+
+## Help OSPOs Strengthen Value Across Business Strategy, AI, and Security
+
+Support TODO members and working groups in sharing guidance and reusable resources on AI strategy and software supply chain security, going beyond open source policy. Examples of topics to cover include:
+
+- How organizations adopt and contribute to open source AI as part of their AI strategy
+- Use Cases that connect OSPOs with security, legal, and platform teams beyond open source policy
+- How OSPO practices in enterprises link to broader public-interest frameworks (e.g., UN Open Source Goals, Academic Research, etc.)
+
+**The Steering Committee is committed to:**
+
+- [ ] Participate in ask-me-anything, birds of a feather or expert-led panel discussions on these topics at LF and non-LF events
+- [ ] Advice on OSPOlogy and OSPOCon-branded programs by providing guidance on themes and formats, and speaking at sessions when possible
+- [ ] Connect with TODO Ambassadors and Working Group Chairs and provide them with resources and expert guidance to help them present their work at LF events.
+- [ ] Support release planning of TODO resources and presentation opportunities at events
+- [ ] Coordinate with sister ecosystems (OpenSSF, OpenChain, InnerSource Commons, CURIOSS, CNCF, LF Europe, CHAOSS) and local OSPO communities to co-present and/or co-develop resources and ensure the TODO community stays connected to major conversations on AI, software supply chain security, and regulatory trends
+
+
+## Keep TODO resources current and easy to navigate
+
+Maintain and improve TODO Group's GitHub repositories so information stays accurate, up to date, and easy to find and reuse
+
+**The Steering Committee is committed to:** 
+
+- [ ] Provide TODO repo maintenance and cleanup so resources remain findable and trustworthy (landscape, guides, governance)
+- [ ] Ensure repos reflect current community decisions and align with open source management best practices 
+
 
 # 📌 2025
 
