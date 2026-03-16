@@ -55,7 +55,7 @@ The TODO Group Steering Committee may appoint one or more Working Group Liaison(
 
 ... Responsibilities:
 .... Help WG chairs and participants understand how TODO works (e.g., where to find governance documents, how to propose changes, how to request support).
-.... Ensure a lightweight “WG essentials” overview exists and is kept up to date (purpose, leads, meeting cadence, links to notes, and deliverables).
+.... Ensure a lightweight WG CHARTER exists and is kept up to date (purpose, leads, meeting cadence, links to notes, and deliverables).
 .... Identify mission misalignments, recurring blockers, and duplication across WGs, and surface them to WG chairs, participants, and the Steering Committee.
 .... Promote an update mechanism beyond Slack to ensure WG progress and decisions are captured in a durable, accessible place (e.g., periodic written updates and links to notes/issues/PRs).
 
